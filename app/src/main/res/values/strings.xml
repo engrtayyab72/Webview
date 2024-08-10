@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SMS IT IS</string>
+    <string name="please_wait">Please wait...</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="really_exit">Really Exit?</string>
+    <string name="sure">Are you sure you want to exit?</string>
+    <string name="check_internet">Please check your internet connection</string>
+</resources>
